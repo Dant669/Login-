@@ -1,0 +1,32 @@
+<style>
+
+
+  form{display: flex;
+       justify-content:flex-start ;
+       justify-content: space-between;
+       flex-direction: column;
+       margin-left: 100px;
+       margin-right: 100px;
+       background: url(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHd1bzBvaG9vNXBraTFjMzdqeWR1eHM3Z3Zrc2xycWhleXF5Ync2aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Gf1RA1jNSpbbuDE40m/giphy.gif);
+  }
+
+
+  h1{font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    justify-content:flex-start;
+    justify-content: center;
+    }
+  form label{color: rgb(216, 17, 17);
+            font-size: 20px;}
+
+   body{background:#ccc;}
+   input[type=text]{height: 30px;
+        background:#ccc;
+        border-radius: 20px;}
+        input[type=password]{height: 30px;
+        background:#ccc;
+        border-radius: 20px;}
+        input[type=submit]{height: 30px;
+        background:#ccc;
+        border-radius: 20px;}
+</style>
